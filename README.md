@@ -74,7 +74,3 @@ nohup python bot.py &
 
 ## Contributing
 Feel free to fork this repo and submit pull requests! 🚀
-
-## License
-MIT License © 2025 Your Name
-
